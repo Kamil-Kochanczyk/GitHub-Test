@@ -17,5 +17,10 @@ namespace GitHub_Test
         {
             return x * x;
         }
+
+        static string Greet()
+        {
+            return "Hello from a new branch!";
+        }
     }
 }
