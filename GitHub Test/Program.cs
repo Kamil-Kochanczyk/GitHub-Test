@@ -12,5 +12,10 @@ namespace GitHub_Test
         {
             Console.WriteLine("Hello world!");
         }
+
+        static int Square(int x)
+        {
+            return x * x;
+        }
     }
 }
